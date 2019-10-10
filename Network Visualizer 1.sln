@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Visualizer 1", "Network Visualizer 1.csproj", "{AF913E36-586C-2C64-634D-3FDC1C134E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Visualizer 1.Plugins", "Network Visualizer 1.Plugins.csproj", "{6E6002C2-D57A-0D98-B74E-1CF040240123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Visualizer 1.Editor.Plugins", "Network Visualizer 1.Editor.Plugins.csproj", "{2B4FD4D6-3734-6F37-BACF-91117A4C603B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Visualizer 1.Editor", "Network Visualizer 1.Editor.csproj", "{38416F3F-80D7-FBD3-85E8-2203D980999E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF913E36-586C-2C64-634D-3FDC1C134E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF913E36-586C-2C64-634D-3FDC1C134E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF913E36-586C-2C64-634D-3FDC1C134E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF913E36-586C-2C64-634D-3FDC1C134E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6002C2-D57A-0D98-B74E-1CF040240123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6002C2-D57A-0D98-B74E-1CF040240123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6002C2-D57A-0D98-B74E-1CF040240123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6002C2-D57A-0D98-B74E-1CF040240123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4FD4D6-3734-6F37-BACF-91117A4C603B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4FD4D6-3734-6F37-BACF-91117A4C603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4FD4D6-3734-6F37-BACF-91117A4C603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4FD4D6-3734-6F37-BACF-91117A4C603B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38416F3F-80D7-FBD3-85E8-2203D980999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38416F3F-80D7-FBD3-85E8-2203D980999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38416F3F-80D7-FBD3-85E8-2203D980999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38416F3F-80D7-FBD3-85E8-2203D980999E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

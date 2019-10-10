@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.networkvisualizer1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Abhishek\\Documents\\Network Visualizer 1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Network Visualizer 1 [Testing]"
+        }
+      }
+    }
+  ]
+}
